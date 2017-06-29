@@ -125,7 +125,8 @@ dependencies {
             //UI
             'com.beloo.widget:ChipsLayoutManager:0.3.4.1@aar',
             'com.github.tokenbrowser:cropiwa:v1.0.1',
-            'com.github.tokenbrowser:ahbottomnavigation:v2.0.7'
+            'com.github.tokenbrowser:ahbottomnavigation:v2.0.7',
+            'com.vdurmont:emoji-java:3.2.0',
 
     )
 
